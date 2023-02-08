@@ -27,7 +27,7 @@ Username: labuser (for example/whatever you chose)
 Password: osTicketPassword1! (for example/whatever you chose)
 
 Open this: Installation Files
-We will use these files to install osTicket and some of the dependencies. I’m using this offline version to make sure everyone is using the same version of all the files :)
+We will use these files to install osTicket and some of the dependencies. 
 
 Install / Enable IIS in Windows WITH CGI
 World Wide Web Services -> Application Development Features -> [X] CGI

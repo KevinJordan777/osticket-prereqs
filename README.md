@@ -57,7 +57,7 @@ Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+Browse to the Osticket help desk login page: http://localhost/osTicket/scp/login.php  
 
 
 

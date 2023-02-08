@@ -57,7 +57,7 @@ Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
-Browse to the Osticket help desk login page: http://localhost/osTicket/scp/login.php  
+Browse to the Osticket help desk login page.
 
 
 
@@ -87,7 +87,7 @@ Download prerequisite files to the Azure Virtual Machine-osticket download folde
 <img src="https://i.imgur.com/VlstrWI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install osTicket v1.15.8 Download osTicket from the Installation Files Folder Extract and copy “upload” folder to c:\inetpub\wwwroot Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
+Install osTicket v1.15.8 Download osTicket from the Installation Files Folder.
 </p>
 <br />
 
@@ -95,6 +95,6 @@ Install osTicket v1.15.8 Download osTicket from the Installation Files Folder Ex
 <img src="https://i.imgur.com/kolh0Cv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Browse to the Osticket help desk login page.
 </p>
 <br />

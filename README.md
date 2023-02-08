@@ -23,8 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 Create an Azure Virtual Machine Windows 10, 4 vCPUs
 Name: Vm-osticket
-Username: labuser (for example/whatever you chose)
-Password: osTicketPassword1! (for example/whatever you chose)
+Username: labuser
+Password: osTicketPassword1!
 
 Open this: Installation Files
 We will use these files to install osTicket and some of the dependencies. 
@@ -62,7 +62,7 @@ Register PHP from within IIS
 <p>
 Create an Azure Virtual Machine Windows 10, 4 vCPUs
 Name: Vm-osticket
-Username: labuser (for example/whatever you chose)
+Username: labuser
 Password: osTicketPassword1!
 
 </p>

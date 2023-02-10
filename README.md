@@ -96,6 +96,14 @@ Password: osTicketPassword1!
 <img src="https://i.imgur.com/RJnzS9F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rVdWicN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Download prerequisite files to the Azure Virtual Machine-osticket download folder and install them for configuration and support of the Osticketing system.
 </p>
 <br />

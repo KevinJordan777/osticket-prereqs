@@ -64,6 +64,7 @@ Browse to the Osticket help desk login page.
 <h2>Installation Steps</h2>
 
 
+
 <p>
 <img src="https://i.imgur.com/tNg7bAh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -88,6 +89,7 @@ Create an Azure Virtual Machine Windows 10, 4 vCPUs
 Name: Vm-osticket
 Username: labuser
 Password: osTicketPassword1!
+  
 
 </p>
 <br />
@@ -100,6 +102,7 @@ Password: osTicketPassword1!
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/rVdWicN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -108,6 +111,7 @@ Download prerequisite files to the Azure Virtual Machine-osticket download folde
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/VlstrWI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -115,6 +119,7 @@ Download prerequisite files to the Azure Virtual Machine-osticket download folde
 Install osTicket v1.15.8 Download osTicket from the Installation Files Folder.
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/kolh0Cv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

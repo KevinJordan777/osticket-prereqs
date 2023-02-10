@@ -63,6 +63,23 @@ Browse to the Osticket help desk login page.
 
 <h2>Installation Steps</h2>
 
+
+<p>
+<img src="https://i.imgur.com/tNg7bAh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3B5uXsu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/Vf3NdTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
